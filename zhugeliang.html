@@ -7,7 +7,7 @@ line-height:1.5;
 font-size:18px;
 color:#025167;
 background-color:rgba(255, 255, 255, 0.5);
-background-image:url('beijingzgl.jpg'); 
+background-image:url('jinghui.jpg'); 
 background-size:cover;
 background-attachment:fixed;}
 
@@ -106,7 +106,7 @@ box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);}
 <h1>诸葛亮</h1>
 
 <div class="image-container">
-<img src="zhugeliang.jpg" alt="诸葛亮画像"> 
+<img src="jiaqi.jpg" alt="诸葛亮画像"> 
 </div>
 
 <h2 id="background">家庭背景</h2>
